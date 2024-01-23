@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-rio&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-rio" /> </p>
 
-- 🔭 I’m currently working on [MintPare](https://mintpare.xyz)
+- 🔭 I’m currently working on [MintPare](https://mintpare.space)
 
 - 📝 I regularly write articles on [https://medium.com/@thecreativerio](https://medium.com/@thecreativerio)
 
