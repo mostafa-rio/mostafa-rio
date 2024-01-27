@@ -1,8 +1,7 @@
 <h3 align="center">A passionate frontend developer from earth</h3>
-
+Programming is the way I can satisfy my ambition of bringing new ideas to life
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-rio&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-rio" /> </p>
 
-- 🔭 I’m currently working on [MintPare](https://mintpare.space)
 
 - 📝 I regularly write articles on [https://medium.com/@thecreativerio](https://medium.com/@thecreativerio)
 
