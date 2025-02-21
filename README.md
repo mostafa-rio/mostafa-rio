@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@thecreativerio](https://medium.com/@thecreativerio)
 
-- 📫 How to reach me **rhmustafaa@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mostafaa-rahmani/](https://www.linkedin.com/in/mostafaa-rahmani/)
 
 <h3 align="left">Connect with me:</h3>
