@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-rio&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-rio" /> </p>
 
 
-- 📝 I regularly write articles on [https://medium.com/@thecreativerio](https://medium.com/@thecreativerio)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mostafaa-rahmani/](https://www.linkedin.com/in/mostafaa-rahmani/)
 
 <h3 align="left">Connect with me:</h3>
